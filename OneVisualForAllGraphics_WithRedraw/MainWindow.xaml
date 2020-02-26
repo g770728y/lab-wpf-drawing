@@ -1,0 +1,13 @@
+﻿<Window x:Class="OneVisualForAllGraphics_WithRedraw.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OneVisualForAllGraphics_WithRedraw"
+        mc:Ignorable="d"
+        Title="画1万个图元在一个drawingVisual内, redraw" Height="800" Width="1400">
+        <StackPanel>
+            <Button Click="OnManualClick" Content="手工清除并重绘"/>
+            <Button Click="OnAutoClick" Content="利用OnRender重绘"/>
+        </StackPanel>
+</Window>

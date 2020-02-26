@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\gouyong\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\gouyong\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_lab-wpf-drawing.-1547976359.00" t="ExcludeRecursive" />
+    <e p="C:\Users\gouyong\RiderProjects\lab-wpf-drawing" t="IncludeFlat">
+      <e p="DrawingTest" t="IncludeRecursive">
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DrawingTest.csproj" t="IncludeRecursive" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="App.g.cs" t="Include" />
+              <e p="DrawingTest.AssemblyInfo.cs" t="Include" />
+              <e p="MainWindow.g.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="README.md" t="Include" />
+      </e>
+      <e p="DynamicAddOrRemoveGraphics" t="IncludeRecursive">
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DynamicAddOrRemoveGraphics.csproj" t="IncludeRecursive" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="App.g.cs" t="Include" />
+              <e p="DynamicAddOrRemoveGraphics.AssemblyInfo.cs" t="Include" />
+              <e p="MainWindow.g.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="README.md" t="Include" />
+        <e p="TestControl.cs" t="Include" />
+      </e>
+      <e p="lab-wpf-drawing.sln" t="IncludeFlat" />
+      <e p="OneVisualForAllGraphics" t="IncludeRecursive">
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="MyVisualHost.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="App.g.cs" t="Include" />
+              <e p="MainWindow.g.cs" t="Include" />
+              <e p="OneVisualForAllGraphics.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="OneVisualForAllGraphics.csproj" t="IncludeRecursive" />
+        <e p="README.md" t="Include" />
+        <e p="UseVisualCollection.xaml" t="Include" />
+        <e p="UseVisualCollection.xaml.cs" t="Include" />
+      </e>
+      <e p="OneVisualForAllGraphics_WithRedraw" t="IncludeRecursive">
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="AutoWindow.xaml" t="Include" />
+        <e p="AutoWindow.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CustomCanvas.cs" t="Include" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="ManualWindow.xaml" t="Include" />
+        <e p="ManualWindow.xaml.cs" t="Include" />
+        <e p="MyVisualHost.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="App.g.cs" t="Include" />
+              <e p="MainWindow.g.cs" t="Include" />
+              <e p="OneVisualForAllGraphics_WithRedraw.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="OneVisualForAllGraphics_WithRedraw.csproj" t="IncludeRecursive" />
+        <e p="README.md" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PerVisualForAllGraphics" t="IncludeRecursive">
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CustomCanvas.cs" t="Include" />
+        <e p="Individual.xaml" t="Include" />
+        <e p="Individual.xaml.cs" t="Include" />
+        <e p="Individual2.xaml" t="Include" />
+        <e p="Individual2.xaml.cs" t="Include" />
+        <e p="InOneGroup.xaml" t="Include" />
+        <e p="InOneGroup.xaml.cs" t="Include" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="App.g.cs" t="Include" />
+              <e p="MainWindow.g.cs" t="Include" />
+              <e p="PerVisualForAllGraphics.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PerVisualForAllGraphics.csproj" t="IncludeRecursive" />
+        <e p="README.md" t="Include" />
+      </e>
+      <e p="VisualTransformTest" t="IncludeRecursive">
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CustomCanvas.cs" t="Include" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="App.g.cs" t="Include" />
+              <e p="MainWindow.g.cs" t="Include" />
+              <e p="VisualTransformTest.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="README.md" t="Include" />
+        <e p="VisualTransformTest.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

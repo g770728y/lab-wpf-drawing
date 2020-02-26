@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccc994ee-c13d-466b-ae73-c10a0ba9f22f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.lab-wpf-drawing/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.lab-wpf-drawing/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.lab-wpf-drawing/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.lab-wpf-drawing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.lab-wpf-drawing/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.lab-wpf-drawing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.lab-wpf-drawing/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.lab-wpf-drawing/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrawingTest/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrawingTest/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrawingTest/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrawingTest/DrawingTest.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrawingTest/MainWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrawingTest/MainWindow.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrawingTest/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicAddOrRemoveGraphics/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicAddOrRemoveGraphics/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicAddOrRemoveGraphics/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicAddOrRemoveGraphics/DynamicAddOrRemoveGraphics.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicAddOrRemoveGraphics/MainWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicAddOrRemoveGraphics/MainWindow.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicAddOrRemoveGraphics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicAddOrRemoveGraphics/TestControl.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics/MainWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics/MainWindow.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics/MyVisualHost.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics/OneVisualForAllGraphics.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics/UseVisualCollection.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics/UseVisualCollection.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/AutoWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/AutoWindow.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/CustomCanvas.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/MainWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/MainWindow.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/ManualWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/ManualWindow.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/MyVisualHost.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/OneVisualForAllGraphics_WithRedraw.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PerVisualForAllGraphics/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PerVisualForAllGraphics/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PerVisualForAllGraphics/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PerVisualForAllGraphics/CustomCanvas.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PerVisualForAllGraphics/InOneGroup.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PerVisualForAllGraphics/InOneGroup.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PerVisualForAllGraphics/Individual.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PerVisualForAllGraphics/Individual.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PerVisualForAllGraphics/Individual2.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PerVisualForAllGraphics/Individual2.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PerVisualForAllGraphics/MainWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PerVisualForAllGraphics/MainWindow.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PerVisualForAllGraphics/PerVisualForAllGraphics.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PerVisualForAllGraphics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualTransformTest/App.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualTransformTest/App.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualTransformTest/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualTransformTest/CustomCanvas.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualTransformTest/MainWindow.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualTransformTest/MainWindow.xaml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualTransformTest/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualTransformTest/VisualTransformTest.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-wpf-drawing.sln" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DrawingTest/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/ManualWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VisualTransformTest/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DrawingTest/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/ManualWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PerVisualForAllGraphics/CustomCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicAddOrRemoveGraphics/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicAddOrRemoveGraphics/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/MyVisualHost.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/AutoWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/AutoWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VisualTransformTest/CustomCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/CustomCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PerVisualForAllGraphics/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C9F07833-F367-4CC6-BA53-F86A072E30CB/56/04d58aee/Panel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PerVisualForAllGraphics/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://Y:/code/basicae/eda/schema/DXApp/GraphicsDesigner/GraphicsObject/Line.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DynamicAddOrRemoveGraphics/TestControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OneVisualForAllGraphics/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/46BD5F63-2677-4539-B5BC-8F4920B341C5/3f/9580c76a/Visual.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OneVisualForAllGraphics/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OneVisualForAllGraphics/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OneVisualForAllGraphics/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PerVisualForAllGraphics/InOneGroup.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OneVisualForAllGraphics/UseVisualCollection.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PerVisualForAllGraphics/InOneGroup.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OneVisualForAllGraphics/UseVisualCollection.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PerVisualForAllGraphics/Individual.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OneVisualForAllGraphics/MyVisualHost.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PerVisualForAllGraphics/Individual.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PerVisualForAllGraphics/Individual2.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PerVisualForAllGraphics/Individual2.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C9F07833-F367-4CC6-BA53-F86A072E30CB/52/1b95c9cc/Window.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VisualTransformTest/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DrawingTest/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/ManualWindow.xaml" />
+        <option value="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/ManualWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/MyVisualHost.cs" />
+        <option value="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/AutoWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/AutoWindow.xaml" />
+        <option value="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/CustomCanvas.cs" />
+        <option value="$PROJECT_DIR$/PerVisualForAllGraphics/InOneGroup.xaml.cs" />
+        <option value="$PROJECT_DIR$/PerVisualForAllGraphics/Individual.xaml" />
+        <option value="$PROJECT_DIR$/PerVisualForAllGraphics/Individual.xaml.cs" />
+        <option value="$PROJECT_DIR$/PerVisualForAllGraphics/InOneGroup.xaml" />
+        <option value="$PROJECT_DIR$/PerVisualForAllGraphics/CustomCanvas.cs" />
+        <option value="$PROJECT_DIR$/DynamicAddOrRemoveGraphics/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/DynamicAddOrRemoveGraphics/TestControl.cs" />
+        <option value="$PROJECT_DIR$/OneVisualForAllGraphics/UseVisualCollection.xaml" />
+        <option value="$PROJECT_DIR$/OneVisualForAllGraphics/UseVisualCollection.xaml.cs" />
+        <option value="$PROJECT_DIR$/OneVisualForAllGraphics/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/OneVisualForAllGraphics/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/PerVisualForAllGraphics/Individual2.xaml" />
+        <option value="$PROJECT_DIR$/PerVisualForAllGraphics/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/PerVisualForAllGraphics/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/PerVisualForAllGraphics/Individual2.xaml.cs" />
+        <option value="$PROJECT_DIR$/VisualTransformTest/MyVisualHost.cs" />
+        <option value="$PROJECT_DIR$/VisualTransformTest/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/VisualTransformTest/CustomCanvas.cs" />
+        <option value="$PROJECT_DIR$/VisualTransformTest/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/DrawingTest/README.md" />
+        <option value="$PROJECT_DIR$/OneVisualForAllGraphics/MyVisualHost.cs" />
+        <option value="$PROJECT_DIR$/DynamicAddOrRemoveGraphics/README.md" />
+        <option value="$PROJECT_DIR$/VisualTransformTest/README.md" />
+        <option value="$PROJECT_DIR$/OneVisualForAllGraphics/README.md" />
+        <option value="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/README.md" />
+        <option value="$PROJECT_DIR$/PerVisualForAllGraphics/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YKA41lSIuDAPH0LbquK6d0haft" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected=".NET Project.VisualTransformTest">
+    <configuration name="DrawingTest" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/DrawingTest/bin/Debug/netcoreapp3.1/DrawingTest.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DrawingTest/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DrawingTest/DrawingTest.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicAddOrRemoveGraphics" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/DynamicAddOrRemoveGraphics/bin/Debug/netcoreapp3.1/DynamicAddOrRemoveGraphics.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DynamicAddOrRemoveGraphics/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DynamicAddOrRemoveGraphics/DynamicAddOrRemoveGraphics.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneVisualForAllGraphics" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/OneVisualForAllGraphics/OneVisualForAllGraphics.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneVisualForAllGraphics_WithRedraw" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/bin/Debug/netcoreapp3.1/OneVisualForAllGraphics_WithRedraw.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/OneVisualForAllGraphics_WithRedraw/OneVisualForAllGraphics_WithRedraw.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerVisualForAllGraphics" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/PerVisualForAllGraphics/bin/Debug/netcoreapp3.1/PerVisualForAllGraphics.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PerVisualForAllGraphics/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PerVisualForAllGraphics/PerVisualForAllGraphics.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisualTransformTest" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/VisualTransformTest/bin/Debug/netcoreapp3.1/VisualTransformTest.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VisualTransformTest/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/VisualTransformTest/VisualTransformTest.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.VisualTransformTest" />
+        <item itemvalue=".NET Project.PerVisualForAllGraphics" />
+        <item itemvalue=".NET Project.DynamicAddOrRemoveGraphics" />
+        <item itemvalue=".NET Project.OneVisualForAllGraphics_WithRedraw" />
+        <item itemvalue=".NET Project.DrawingTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccc994ee-c13d-466b-ae73-c10a0ba9f22f" name="Default Changelist" comment="" />
+      <created>1582680716915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582680716915</updated>
+      <workItem from="1582680718880" duration="26919000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582694644868">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="414" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1582694644868" />
+    <state width="1876" height="260" key="GridCell.Tab.0.bottom" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state width="1876" height="260" key="GridCell.Tab.0.center" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state width="1876" height="260" key="GridCell.Tab.0.left" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state width="1876" height="260" key="GridCell.Tab.0.right" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state width="1876" height="260" key="GridCell.Tab.1.bottom" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.1.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state width="1876" height="260" key="GridCell.Tab.1.center" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.1.center/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state width="1876" height="260" key="GridCell.Tab.1.left" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.1.left/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state width="1876" height="260" key="GridCell.Tab.1.right" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.1.right/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state width="1876" height="260" key="GridCell.Tab.2.bottom" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.2.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state width="1876" height="260" key="GridCell.Tab.2.center" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.2.center/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state width="1876" height="260" key="GridCell.Tab.2.left" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.2.left/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state width="1876" height="260" key="GridCell.Tab.2.right" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.2.right/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state width="1876" height="260" key="GridCell.Tab.3.bottom" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.3.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state width="1876" height="260" key="GridCell.Tab.3.center" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.3.center/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state width="1876" height="260" key="GridCell.Tab.3.left" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.3.left/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state width="1876" height="260" key="GridCell.Tab.3.right" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.3.right/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state width="1876" height="260" key="GridCell.Tab.4.bottom" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.4.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state width="1876" height="260" key="GridCell.Tab.4.center" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.4.center/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state width="1876" height="260" key="GridCell.Tab.4.left" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.4.left/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state width="1876" height="260" key="GridCell.Tab.4.right" timestamp="1582717783244">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1876" height="260" key="GridCell.Tab.4.right/0.0.1920.1200@0.0.1920.1200" timestamp="1582717783244" />
+    <state x="552" y="331" key="Rider.ProjectTemplateDialog.Size" timestamp="1582707617123">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="552" y="331" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1200@0.0.1920.1200" timestamp="1582707617123" />
+    <state x="460" y="298" key="RiderGenerateDialog" timestamp="1582709737851">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="460" y="298" key="RiderGenerateDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1582709737851" />
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup" timestamp="1582716474657">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1582716474657" />
+  </component>
+</project>
