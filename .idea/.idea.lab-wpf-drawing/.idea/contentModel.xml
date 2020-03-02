@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\gouyong\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\gouyong\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_lab-wpf-drawing.-1547976359.00" t="ExcludeRecursive" />
-    <e p="C:\Users\gouyong\RiderProjects\lab-wpf-drawing" t="IncludeFlat">
+    <e p="C:\Users\gouyong\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_lab-wpf-drawing.-802779044.00" t="ExcludeRecursive" />
+    <e p="Y:\code\basicae\eda\lab-wpf-drawing" t="IncludeFlat">
       <e p="DrawingTest" t="IncludeRecursive">
         <e p="App.xaml" t="Include" />
         <e p="App.xaml.cs" t="Include" />
@@ -36,6 +36,7 @@
             <e p="netcoreapp3.1" t="Include">
               <e p="App.g.cs" t="Include" />
               <e p="DynamicAddOrRemoveGraphics.AssemblyInfo.cs" t="Include" />
+              <e p="GeneratedInternalTypeHelper.g.cs" t="Include" />
               <e p="MainWindow.g.cs" t="Include" />
             </e>
           </e>
@@ -58,6 +59,7 @@
               <e p="App.g.cs" t="Include" />
               <e p="MainWindow.g.cs" t="Include" />
               <e p="OneVisualForAllGraphics.AssemblyInfo.cs" t="Include" />
+              <e p="UseVisualCollection.g.cs" t="Include" />
             </e>
           </e>
         </e>
@@ -83,7 +85,10 @@
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
               <e p="App.g.cs" t="Include" />
+              <e p="AutoWindow.g.cs" t="Include" />
+              <e p="GeneratedInternalTypeHelper.g.cs" t="Include" />
               <e p="MainWindow.g.cs" t="Include" />
+              <e p="ManualWindow.g.cs" t="Include" />
               <e p="OneVisualForAllGraphics_WithRedraw.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
@@ -110,6 +115,10 @@
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
               <e p="App.g.cs" t="Include" />
+              <e p="GeneratedInternalTypeHelper.g.cs" t="Include" />
+              <e p="Individual.g.cs" t="Include" />
+              <e p="Individual2.g.cs" t="Include" />
+              <e p="InOneGroup.g.cs" t="Include" />
               <e p="MainWindow.g.cs" t="Include" />
               <e p="PerVisualForAllGraphics.AssemblyInfo.cs" t="Include" />
             </e>
@@ -130,6 +139,7 @@
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
               <e p="App.g.cs" t="Include" />
+              <e p="GeneratedInternalTypeHelper.g.cs" t="Include" />
               <e p="MainWindow.g.cs" t="Include" />
               <e p="VisualTransformTest.AssemblyInfo.cs" t="Include" />
             </e>

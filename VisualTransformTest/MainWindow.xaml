@@ -26,7 +26,7 @@
                 <Button Content="复位" Width="200" Height="30"/>
             </WrapPanel>
             <WrapPanel>
-                <Button Content="+矩形" Width="200" Height="30" ></Button>
+                <Button Content="+矩形" Width="200" Height="30" Click="AddRectButton_Click"></Button>
                 <Button Content="移动矩形" Width="200" Height="30" />
                 <Button Content="旋转矩形" Width="200" Height="30" />
                 <Button Content="缩小矩形" Width="200" Height="30" />

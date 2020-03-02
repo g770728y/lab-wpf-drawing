@@ -32,5 +32,10 @@ namespace VisualTransformTest
             // transformGroup.Children.Add(new ScaleTransform(1, -1));
             // MyCanvas.RenderTransform = transformGroup; 
         }
+
+        private void AddRectButton_Click(object sender, RoutedEventArgs e)
+        {
+            MyCanvas.Redraw();
+        }
     }
 }

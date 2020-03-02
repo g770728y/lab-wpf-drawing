@@ -26,8 +26,9 @@ namespace PerVisualForAllGraphics
             var pen = new Pen()
             {
                 Thickness = 2,
-                Brush = new SolidColorBrush(Colors.Red)
+                Brush = new SolidColorBrush(Colors.Red),
             };
+            pen.Freeze();
             
             for (var i = 0; i < 100; i++)
             {
